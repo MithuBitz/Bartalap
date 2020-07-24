@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "238103146815",
+    "firebase_url": "https://bartalap-d725f.firebaseio.com",
+    "project_id": "bartalap-d725f",
+    "storage_bucket": "bartalap-d725f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238103146815:android:aff175e0dac8f60359238a",
+        "android_client_info": {
+          "package_name": "com.example.bartalap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238103146815-u1fvfo8bvcfb80qj469injtamksj95bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-6NGUjiCnLd2Q-TSiqcgc_1tcc9rMH9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238103146815-u1fvfo8bvcfb80qj469injtamksj95bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
